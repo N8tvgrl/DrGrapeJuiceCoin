@@ -1,0 +1,2 @@
+# DrGrapeJuiceCoin
+New CryptoCurrency
