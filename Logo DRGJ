@@ -1,0 +1,23 @@
+{
+  "name": "Dr.GrapeJuiceCoin",
+  "symbol": "DRGJ",
+  "decimals": 18,
+  "logo": "{
+  "name": "Dr.GrapeJuiceCoin",
+  "symbol": "DRGJ",
+  "decimals": 18,
+  "logo": "https://example.com/path/to/your/logo.png",
+  "description": "A community-driven token for green initiatives and aid.",
+  "website": "https://example.com",
+  "social": {
+    "twitter": "https://twitter.com/yourhandle",
+    "discord": "https://discord.gg/yourinvite"
+  }
+}"/path/to/your/logo.png",
+  "description": "A community-driven token for green initiatives and aid.",
+  "website": "https://example.com",
+  "social": {
+    "twitter": "https://twitter.com/yourhandle",
+    "discord": "https://discord.gg/yourinvite"
+  }
+}
